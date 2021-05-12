@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate teaching"
 permalink: /teaching/past-teaching
 venue: "University of Michigan"
-date: 2019-2021
+date: 2019-09-01
 location: "Ann Arbor, Michigan"
 ---
 
