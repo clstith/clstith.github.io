@@ -10,7 +10,7 @@ redirect_from:
 
 I am a second-year Ph.D. student at the University of Michgan studying mathematical general relativity. My advisor is Lydia Bieri. 
 
-###### Research interests: 
+### Research interests: 
 
 - Mathematical general relativity
 - Geometric analysis 
