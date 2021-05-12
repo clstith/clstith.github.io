@@ -1,14 +1,14 @@
 ---
-title: "Past Teaching"
+title: "Teaching Experience"
 collection: teaching
-type: "Undergraduate teaching"
+type: "Graduate student instructor"
 permalink: /teaching/past-teaching
 venue: "University of Michigan"
 date: 2019-09-01
 location: "Ann Arbor, Michigan"
 ---
 
-I am a graduate student instructor (GSI) at the University of Michigan. As such, I have TA'd or taught for various mathematics courses. Please see the list below.
+I am a graduate student instructor (GSI) at the University of Michigan. As such, I have taught or been a TA for various undergraduate mathematics courses, from introductory calculus to differential equations. 
 
 Math 216 (Differential Equations)
 ======
