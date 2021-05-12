@@ -32,8 +32,8 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}
-  <ul>Test</ul>
   </ul>
+
 Service 
 ======
 * Co-organizer, Student Analysis Seminar
