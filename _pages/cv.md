@@ -9,17 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in Mathematics, University of Chicago, 2019
-* Ph.D in Mathematics, University of Michigan, 2024 (Expected)
-
 Research interests
 ======
 * Mathematical general relativity
 * Geometric analysis
 * Partial differential equations
-  
+
+Education
+======
+* B.S. in Mathematics, University of Chicago, 2019
+* Ph.D in Mathematics, University of Michigan, 2024 (Expected)
   
 Talks
 ======
