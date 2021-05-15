@@ -35,4 +35,10 @@ Teaching
 
 Service 
 ======
-* Co-organizer, Student Analysis Seminar
+* Co-organizer, Student Analysis Seminar (2021 - Present)
+
+Selected Honors
+======
+* Gabrielle & Sophie Rainich Fellowship (University of Michigan, 2020)
+
+For an extended PDF version of my CV, please click [here](https://clstith.github.io/files/CV_5-15-21.pdf)
