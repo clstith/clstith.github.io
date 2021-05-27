@@ -8,7 +8,7 @@ date: 2019-09-01
 location: "Ann Arbor, Michigan"
 ---
 
-I am a graduate student instructor (GSI) at the University of Michigan. As such, I have taught or been a TA for various undergraduate mathematics courses, from introductory calculus to differential equations. Please click the above link for a summary of my past teaching experiences. 
+I am a graduate student instructor (GSI) at the University of Michigan. As such, I have taught or been a TA for various undergraduate mathematics courses, from introductory calculus to differential equations. Please see below for a summary of my past teaching experiences.
 
 Math 216 (Differential Equations)
 ======
