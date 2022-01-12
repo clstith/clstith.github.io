@@ -45,6 +45,3 @@ Selected Honors
 ======
 * Gabrielle & Sophie Rainich Fellowship (University of Michigan, 2020)
 
---- 
-
-For an extended PDF version of my CV, please click [here](https://clstith.github.io/files/CV_5-24-21.pdf)
