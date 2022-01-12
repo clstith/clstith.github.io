@@ -39,6 +39,7 @@ Teaching
 Service 
 ======
 * Co-organizer, Student Analysis Seminar (2021 - Present)
+* Friend of the [Math Corps](https://sites.lsa.umich.edu/math-corps/) summer camp at the University of Michigan
 
 Selected Honors
 ======
