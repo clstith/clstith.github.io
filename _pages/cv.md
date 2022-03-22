@@ -23,6 +23,7 @@ Education
   
 Talks
 ======
+* Student Dynamics/Geometry/Topology Seminar, <em>Penrose's incompleteness theorem</em> (University of Michigan, 2022)
 * Student Dynamics/Geometry/Topology Seminar, <em>Black hole spacetimes and closed trapped surfaces</em> (University of Michigan, 2021)
 * Student Analysis Seminar, <em>Lagrangians in PDE</em> (University of Michigan, 2021)
 * MCAIM Student Seminar, <em>The Cauchy problem in general relativity</em> (University of Michigan, 2020)
