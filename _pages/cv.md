@@ -30,6 +30,11 @@ Talks
 * MCAIM Student Seminar, <em>The Cauchy problem in general relativity</em> (University of Michigan, 2020)
 * Student Analysis Seminar, <em>Optimal transport theory</em> (University of Michigan, 2020)
 * Student Analysis Seminar, <em>The Cauchy problem in general relativity</em> (University of Michigan, 2020)
+
+Conferences & Workshops
+======
+* Center for Mathematical Sciences (CMSA) General Relativity Program Visitor (Havard University, Spring 2022)
+* MSRI Summer School on Geometric Flows (Crete, Summer 2022)
   
 Teaching
 ======
