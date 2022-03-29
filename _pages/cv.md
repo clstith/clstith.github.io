@@ -23,7 +23,7 @@ Education
 
 Conferences & Workshops
 ======
-* MSRI Summer School on Geometric Flows ([FORTH-IACM](https://www.iacm.forth.gr/) Crete, Summer 2022)
+* MSRI Summer School on Geometric Flows ([FORTH-IACM](https://www.iacm.forth.gr/), Crete, Summer 2022)
 * CMSA General Relativity Program Visitor (Harvard University, Spring 2022)
   * For more information, visit the program's [website](https://cmsa.fas.harvard.edu/gr-program/)
   
