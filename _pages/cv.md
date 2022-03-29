@@ -33,7 +33,7 @@ Talks
 
 Conferences & Workshops
 ======
-* Center for Mathematical Sciences (CMSA) General Relativity Program Visitor (Havard University, Spring 2022)
+* Harvard University CMSA General Relativity Program Visitor (Havard University, Spring 2022)
 * MSRI Summer School on Geometric Flows (Crete, Summer 2022)
   
 Teaching
