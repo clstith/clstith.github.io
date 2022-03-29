@@ -20,6 +20,12 @@ Education
 * B.S. in Mathematics (with Honors), University of Chicago, 2019
 * M.S. in Mathematics, University of Michigan, 2021
 * Ph.D in Mathematics, University of Michigan, 2024 (Expected)
+
+Conferences & Workshops
+======
+* MSRI Summer School on Geometric Flows (Crete, Summer 2022)
+* Harvard University CMSA General Relativity Program Visitor (Havard University, Spring 2022)
+  * For more information, visit the program's [website](https://cmsa.fas.harvard.edu/gr-program/)
   
 Talks
 ======
@@ -31,12 +37,6 @@ Talks
 * Student Analysis Seminar, <em>Optimal transport theory</em> (University of Michigan, 2020)
 * Student Analysis Seminar, <em>The Cauchy problem in general relativity</em> (University of Michigan, 2020)
 
-Conferences & Workshops
-======
-* MSRI Summer School on Geometric Flows (Crete, Summer 2022)
-* Harvard University CMSA General Relativity Program Visitor (Havard University, Spring 2022)
-  * For more information, visit the program's [website](https://cmsa.fas.harvard.edu/gr-program/)
-  
 Teaching
 ======
   <ul>{% for post in site.teaching %}
