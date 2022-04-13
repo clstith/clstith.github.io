@@ -26,6 +26,8 @@ Conferences & Workshops
 * MSRI Summer School on Geometric Flows ([FORTH-IACM](https://www.iacm.forth.gr/), Crete, Summer 2022)
 * CMSA General Relativity Program Visitor (Harvard University, Spring 2022)
   * For more information, visit the program's [website](https://cmsa.fas.harvard.edu/gr-program/)
+* Boston City Limits 2018: Summer School on Mathematical General Relativity and the Geometric Analysis of Waves of Fluids (MIT, Summer 2018)
+  * For more information, visit the program's [website](https://math.mit.edu/sites/city-limits/2018/index.html)
   
 Talks
 ======
