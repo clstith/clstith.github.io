@@ -56,3 +56,6 @@ Selected Honors
 ======
 * Gabrielle & Sophie Rainich Fellowship (University of Michigan, 2020)
 
+Miscellaneous
+======
+* I've worked on data-related projects with local organizations such as [OLHSA](https://www.olhsa.org/en-us/) and [MI-CEMI](https://michigancollaborative.org/) through [CTAC](https://ginsberg.umich.edu/ctac) at the Ginsberg Center at U of M
