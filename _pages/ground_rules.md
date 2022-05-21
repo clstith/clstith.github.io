@@ -27,3 +27,11 @@ Here are some examples of how I will try to implement the above guiding principl
 * Because students who need to work one or more jobs in order to maintain their position on campus are as deserving of my time and attention as those who do not, I will try to schedule office hours, recitations, and review sessions often and at different times in order to ensure as many of my students can access these resources as possible.
 * With the goal of normalizing a classroom culture of welcoming and affirming queer and trans students, I will share my pronouns (he/him) with my students, peers, and mentors, and I will respect and use others' pronouns.
 * In order to honor the effort my students have invested in their courses, I will never refer to a problem, exercise, or verification as "trivial," "obvious," or "clear."
+
+
+
+--- 
+
+
+These kinds of ground rules work best for a community when their specifics are co-created by those who seek to implement them. As such, I welcome suggestions about ways to improve and augment this list. I am also totally open to criticism of the specifics of what is written above, including any suggestions I made for positive actions. However, the moral imperatives of justice and equity on which these ground rules are founded are not up for debate; if your words or actions deny the humanity or experience of a person or group of people on the basis of identities they hold, they will do so from my trash folder.
+{: .notice}
