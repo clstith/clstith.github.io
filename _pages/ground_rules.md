@@ -25,5 +25,5 @@ Both in our roles as teachers and as students, we must:
 Here are some examples of how I will try to implement the above guiding principles in my classroom:
 * In the spirit of open, communicative dialogue, I will be as clear and up-front as possible about my expectations for my students, and I will seek out and listen to my students' expectations for me.
 * Because students who need to work one or more jobs in order to maintain their position on campus are as deserving of my time and attention as those who do not, I will try to schedule office hours, recitations, and review sessions often and at different times in order to ensure as many of my students can access these resources as possible.
-* With the goal of normalizing a classroom culture of welcoming and affirming queer and trans students, I will share my pronouns (he/him!) with my students, peers, and mentors, and I will respect and use others' pronouns.
+* With the goal of normalizing a classroom culture of welcoming and affirming queer and trans students, I will share my pronouns (he/him) with my students, peers, and mentors, and I will respect and use others' pronouns.
 * In order to honor the effort my students have invested in their courses, I will never refer to a problem, exercise, or verification as "trivial," "obvious," or "clear."
