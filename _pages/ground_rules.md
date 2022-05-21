@@ -1,6 +1,6 @@
 ---
 title: "Ground Rules"
-permalink: /ground-rules
+permalink: /ground-rules/
 author_profile: true
 ---
 
