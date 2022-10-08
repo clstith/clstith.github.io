@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 
-I am a graduate student instructor (GSI) at the University of Michigan. As such, I have taught or been a TA for various undergraduate mathematics courses, from introductory calculus to differential equations. Please see below for a summary of my past teaching experiences.
+I am a graduate student instructor (GSI) at the University of Michigan. As such, I have taught, co-coordinated, or been a TA for various undergraduate mathematics courses, from introductory calculus to differential equations. Please see below for a summary of my past teaching experiences.
 
 {% include base_path %}
 <!--
@@ -15,6 +15,13 @@ I am a graduate student instructor (GSI) at the University of Michigan. As such,
 -->
 
 <h1>Past teaching experience</h1>
+
+<h3>Introductory Program Co-Coordination</h3>
+
+<p>In Fall 2022, I was the student co-coordinator for Math 116 at U of M.
+</p>
+
+
 
 <h3>Math 216 (Differential Equations)</h3>
 
