@@ -23,6 +23,7 @@ Education
 
 Conferences & Workshops
 ======
+* 32nd Midwest Relativity Conference (Oakland University, Fall 2022)
 * MSRI Summer School on Geometric Flows ([FORTH-IACM](https://www.iacm.forth.gr/), Crete, Summer 2022)
 * CMSA General Relativity Program Visitor (Harvard University, Spring 2022)
   * For more information, visit the program's [website](https://cmsa.fas.harvard.edu/gr-program/)
@@ -31,6 +32,7 @@ Conferences & Workshops
   
 Talks
 ======
+* 32nd Midwest Relativity Conference, <em>Black hole formation with null dust</em> (Oakland University, 2022)
 * Student Dynamics/Geometry/Topology Seminar, <em>Penrose's incompleteness theorem</em> (University of Michigan, 2022)
 * Student Analysis Seminar, <em>Field equations on flat spacetime</em> (University of Michigan, 2022)
 * Student Dynamics/Geometry/Topology Seminar, <em>Black hole spacetimes and closed trapped surfaces</em> (University of Michigan, 2021)
