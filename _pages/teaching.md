@@ -18,14 +18,11 @@ I am a graduate student instructor (GSI) at the University of Michigan. As such,
 
 <h3>Introductory Program Co-Coordination</h3>
 
-<p>In Fall 2022, I was the student co-coordinator for Math 116 at U of M.
+<p>In Fall 2022, I was the student co-coordinator for Math 116 at U of M. This is the second course in U of M's introductory calculus sequence; co-coordination duties are on the administrative/logistical side of things, including writing exams and homework for the course.
 </p>
 
 
-
 <h3>Math 216 (Differential Equations)</h3>
-
-<p>Semesters taught: Winter 2021</p>
 
 <p>In Winter 2021, I was a lab instructor for a course in applied differential equations. The lab component of this course featured weekly lab meetings where students worked on applied projects coded in MATLAB.
 </p>
