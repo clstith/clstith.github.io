@@ -32,6 +32,7 @@ Conferences & Workshops
   
 Talks
 ======
+* University of Maine Mathematics Colloquium, <em>Trapped surface formation in general relativity</em> (University of Maine, 2023)
 * 32nd Midwest Relativity Conference, <em>Black hole formation with null dust</em> (Oakland University, 2022)
 * Student Dynamics/Geometry/Topology Seminar, <em>Penrose's incompleteness theorem</em> (University of Michigan, 2022)
 * Student Analysis Seminar, <em>Field equations on flat spacetime</em> (University of Michigan, 2022)
