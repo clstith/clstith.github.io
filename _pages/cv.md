@@ -48,7 +48,8 @@ Teaching
 
 Service 
 ======
-* I am a co-organizer for the Michigan Research Experience for Graduates ([MREG](https://sites.google.com/umich.edu/mreg-2022)) in Summer, 2022
+* I am a co-organizer for the Midwest Research Experience for Graduates ([MREG](https://sites.google.com/umich.edu/mreg-2023)) (previously known as the Michigan Research Experience for Graduates)
+* I was on the organizing committee for the Michigan Research Experience for Graduates ([MREG](https://sites.google.com/umich.edu/mreg-2022)) in Summer, 2022
 * Co-organizer, Student Analysis Seminar (2021 - Present) (See the [list](http://www.math.lsa.umich.edu/seminars_events/index.php) of UM seminars)
 * Friend of the [Math Corps](https://sites.lsa.umich.edu/math-corps/) summer camp at the University of Michigan
 
