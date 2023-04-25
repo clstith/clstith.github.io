@@ -55,6 +55,7 @@ Service
 
 Selected Honors
 ======
+* Joel Smoller Graduate Fellowship (University of Michigan, 2023)
 * Gabrielle & Sophie Rainich Fellowship (University of Michigan, 2020)
 
 Miscellaneous
