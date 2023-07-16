@@ -1,7 +1,7 @@
 ---
 title: 'Test'
 date: 2021-05-16
-permalink: /posts/test
+permalink: /test
 tags:
   - test
 ---
