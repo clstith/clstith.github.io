@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year Ph.D. student at the University of Michigan studying mathematical general relativity. My advisor is Lydia Bieri. 
+I am a fifth-year Ph.D. student at the University of Michigan studying mathematical general relativity. My advisor is Lydia Bieri. 
+
+I am also the co-chair of the Midwest Research Experience for Graduates (MREG), a two-week summer program hosted at the University of Michigan for early-stage graduate students in pure & applied mathematics.
 
 ### Research interests: 
 
