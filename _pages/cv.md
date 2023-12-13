@@ -23,6 +23,7 @@ Education
 
 Conferences & Workshops
 ======
+* 33rd Midwest Relativity Conference (University of Chicago, Fall 2023)
 * 32nd Midwest Relativity Conference (Oakland University, Fall 2022)
 * MSRI Summer School on Geometric Flows ([FORTH-IACM](https://www.iacm.forth.gr/), Crete, Summer 2022)
 * CMSA General Relativity Program Visitor (Harvard University, Spring 2022)
@@ -32,6 +33,7 @@ Conferences & Workshops
   
 Talks
 ======
+* 33rd Midwest Relativity Conference, <em>Black hole formation with null dust</em> (University of Chicago, 2023)
 * University of Maine Mathematics Colloquium, <em>Trapped surface formation in general relativity</em> (University of Maine, 2023)
 * 32nd Midwest Relativity Conference, <em>Black hole formation with null dust</em> (Oakland University, 2022)
 * Student Dynamics/Geometry/Topology Seminar, <em>Penrose's incompleteness theorem</em> (University of Michigan, 2022)
