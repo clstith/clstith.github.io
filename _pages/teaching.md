@@ -29,7 +29,7 @@ I am a graduate student instructor (GSI) at the University of Michigan. As such,
 
 <h3>Math 116 (Calculus II)</h3>
 
-<p>Semesters taught: Winter 2020, Fall 2020</p>
+<p>Semesters taught: Winter 2020, Fall 2020, Winter 2024</p>
 
 <p>Math 116 is the second course in U of M's standard introductory calculus sequence. Classes are typically 15-20 students and involve a mix of lecturing and groupwork. 
 </p>

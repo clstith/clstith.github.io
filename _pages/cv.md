@@ -33,6 +33,7 @@ Conferences & Workshops
   
 Talks
 ======
+* Student Analysis Seminar, <em>General Relativity and the Einstein Equations</em> (University of Michigan, 2024)
 * 33rd Midwest Relativity Conference, <em>Black hole formation with null dust</em> (University of Chicago, 2023)
 * University of Maine Mathematics Colloquium, <em>Trapped surface formation in general relativity</em> (University of Maine, 2023)
 * 32nd Midwest Relativity Conference, <em>Black hole formation with null dust</em> (Oakland University, 2022)
