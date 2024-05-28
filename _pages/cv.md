@@ -59,11 +59,19 @@ Service
 
 Selected Honors
 ======
+* Mort Brown Excellence in Teaching Award (University of Michigan, 2023)
 * Joel Smoller Graduate Fellowship (University of Michigan, 2023)
 * Gabrielle & Sophie Rainich Fellowship (University of Michigan, 2020)
+* Rackham Merit Fellowship (University of Michigan, 2019 - Present)
 * Phi Beta Kappa (2019 - Present)
 
 Miscellaneous
 ======
-* I've worked on data-related projects with local organizations such as [OLHSA](https://www.olhsa.org/en-us/) and [MI-CEMI](https://michigancollaborative.org/) through [CTAC](https://ginsberg.umich.edu/ctac) at the Ginsberg Center at U of M
-* I've worked on a team project for the [Erdos Institute](https://www.erdosinstitute.org/) that used machine learning and data science methods to predict the direction of neutrinos from cosmic rays. Our project received a [Certificate of Completion with Distinction](../files/Erdos_Certificate_2023.pdf)
+- I've worked on data-related projects with local organizations through [CTAC](https://ginsberg.umich.edu/ctac) at the Ginsberg Center at U of M, such as: 
+  - Data visualization of organizational collaboration for [MI-CEMI](https://michigancollaborative.org/)
+  - Data visualization & mapping for [Brilliant Detroit](https://brilliantdetroit.org/) 
+  - Data visualization & mapping for the Girl Scouts of Southeastern Michigan
+  - Data analysis of survey responses for [OLHSA](https://www.olhsa.org/en-us/)
+  - Python & Bash visualization tutorials for CTAC
+- I've worked on a team project for the [Erdos Institute](https://www.erdosinstitute.org/) Data Science Bootcamp that used machine learning and data science methods to predict the direction of neutrinos from cosmic rays. Our project received a [Certificate of Completion with Distinction](../files/Erdos_Certificate_2023.pdf)
+- Following the Data Science Bootcamp, I worked on a team project for the Erdos Institute's Deep Learning Bootcamp, where we used LLMs (specifically DeBERTa and RoBERTa) to identify personally identifying information (PII) in academic writing
