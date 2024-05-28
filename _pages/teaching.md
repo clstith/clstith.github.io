@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 
-I am a graduate student instructor (GSI) at the University of Michigan. As such, I have taught, co-coordinated, or been a TA for various undergraduate mathematics courses, from introductory calculus to differential equations. Please see below for a summary of my past teaching experiences.
+I am a graduate student instructor (GSI) at the University of Michigan. As such, I have taught, co-coordinated, or been a TA for various undergraduate mathematics courses, from introductory calculus to differential equations. In 2023, I was awarded the Mort Brown Excellence in Teaching Award by the University of Michigan. Please see below for a summary of my past teaching experiences.
 
 {% include base_path %}
 <!--
