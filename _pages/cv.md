@@ -51,7 +51,7 @@ Teaching
 
 Service 
 ======
-* Invited panelist at [MORE 2023](https://intranet.math.vt.edu/MORE/MORE2023/) (Mathematics - Opportunities in Research and education 2023)
+* Invited panelist at [MORE 2023](https://intranet.math.vt.edu/MORE/MORE2023/) (Mathematics - Opportunities in Research and Education 2023)
 * I am a co-organizer for the Midwest Research Experience for Graduates ([MREG 2023](https://sites.google.com/umich.edu/mreg-2023)) (previously known as the Michigan Research Experience for Graduates)
 * I was on the organizing committee for the Michigan Research Experience for Graduates ([MREG 2022](https://sites.google.com/umich.edu/mreg-2022)) in Summer, 2022
 * Co-organizer, Student Analysis Seminar (2021 - 2023) (See the [list](http://www.math.lsa.umich.edu/seminars_events/index.php) of UM seminars)
