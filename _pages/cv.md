@@ -23,6 +23,8 @@ Education
 
 Conferences & Workshops
 ======
+* 34th Midwest Relativity Conference (University of Michigan, Fall 2024)
+* AMS Fall Western Sectional (University of California, Riverside, Fall 2024)
 * 33rd Midwest Relativity Conference (University of Chicago, Fall 2023)
 * 32nd Midwest Relativity Conference (Oakland University, Fall 2022)
 * MSRI Summer School on Geometric Flows ([FORTH-IACM](https://www.iacm.forth.gr/), Crete, Summer 2022)
@@ -47,12 +49,16 @@ Talks
 
 Teaching
 ======
+* Primary Instructor/Instructor of Record for Math 116 (Calculus II) (Winter 2024, Fall 2020, Winter 2020)
+* Primary Instructor/Instructor of Record for Math 115 (Calculus I) (Fall 2019)
+* Co-coordinator for Math 116 (Calculus II) (Fall 2022)
+* Lab Instructor for Math 216 (Introduction to Differential Equations) (Winter 2021)
 * See my [teaching page](https://clstith.github.io/teaching/) for more information regarding my teaching experience
 
 Service 
 ======
 * Invited panelist at [MORE 2023](https://intranet.math.vt.edu/MORE/MORE2023/) (Mathematics - Opportunities in Research and Education 2023)
-* I am a co-organizer for the Midwest Research Experience for Graduates ([MREG 2023](https://sites.google.com/umich.edu/mreg-2023)) (previously known as the Michigan Research Experience for Graduates)
+* I was the co-chair for the Midwest Research Experience for Graduates ([MREG 2023](https://sites.google.com/umich.edu/mreg-2023)) (previously known as the Michigan Research Experience for Graduates), for which we secured funding from [NSF](https://www.nsf.gov/) and [MCAIM](https://sites.lsa.umich.edu/mcaim/)
 * I was on the organizing committee for the Michigan Research Experience for Graduates ([MREG 2022](https://sites.google.com/umich.edu/mreg-2022)) in Summer, 2022
 * Co-organizer, Student Analysis Seminar (2021 - 2023) (See the [list](http://www.math.lsa.umich.edu/seminars_events/index.php) of UM seminars)
 * Friend of the [Math Corps](https://sites.lsa.umich.edu/math-corps/) summer camp at the University of Michigan
