@@ -16,6 +16,6 @@ Previously, I was the co-chair of the Midwest Research Experience for Graduates 
 
 ### Research interests: 
 
-- Mathematical general relativity
+- Mathematical general relativity (specifically singularity/trapped surface formation)
 - Geometric analysis 
-- Partial differential equations
+- Partial differential equations (specifically hyperbolic systems)

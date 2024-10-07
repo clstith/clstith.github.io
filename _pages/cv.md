@@ -11,9 +11,9 @@ redirect_from:
 
 Research interests
 ======
-* Mathematical general relativity
+* Mathematical general relativity (specifically singularity/trapped surface formation)
 * Geometric analysis
-* Partial differential equations
+* Partial differential equations (specifically hyperbolic systems)
 
 Education
 ======
