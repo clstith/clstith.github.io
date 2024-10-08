@@ -61,6 +61,7 @@ Service
 * I was the co-chair for the Midwest Research Experience for Graduates ([MREG 2023](https://sites.google.com/umich.edu/mreg-2023)) (previously known as the Michigan Research Experience for Graduates), for which we secured funding from [NSF](https://www.nsf.gov/) and [MCAIM](https://sites.lsa.umich.edu/mcaim/)
 * I was on the organizing committee for the Michigan Research Experience for Graduates ([MREG 2022](https://sites.google.com/umich.edu/mreg-2022)) in Summer, 2022
 * Co-organizer, Student Analysis Seminar (2021 - 2023) (See the [list](http://www.math.lsa.umich.edu/seminars_events/index.php) of UM seminars)
+* I have lead two [Math Circle](https://sites.lsa.umich.edu/mathcircle/) sessions at the University of Michigan (one on spherical geometry, one on Conway's Game of Life)
 * Friend of the [Math Corps](https://sites.lsa.umich.edu/math-corps/) summer camp at the University of Michigan
 
 Selected Honors
