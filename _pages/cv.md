@@ -25,6 +25,7 @@ Conferences & Workshops
 ======
 * 34th Midwest Relativity Conference (University of Michigan, Fall 2024)
 * AMS Fall Western Sectional (University of California, Riverside, Fall 2024)
+* Recent Progress on Geometric Analysis and Riemannian Geometry (SLMath, Fall 2024)
 * 33rd Midwest Relativity Conference (University of Chicago, Fall 2023)
 * 32nd Midwest Relativity Conference (Oakland University, Fall 2022)
 * MSRI Summer School on Geometric Flows ([FORTH-IACM](https://www.iacm.forth.gr/), Crete, Summer 2022)
