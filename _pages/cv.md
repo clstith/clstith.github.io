@@ -36,6 +36,8 @@ Conferences & Workshops
   
 Talks
 ======
+* Student Analysis Seminar, <em>Hyperbolic equations and double null foliations</em> (University of Michigan, 2024)
+* AMS Special Session on Dynamics of Solutions to Wave Equations,  <em>Hyperbolic equations in a double null gauge</em> (University of California, Riverside, 2024)
 * Student Analysis Seminar, <em>General Relativity and the Einstein Equations</em> (University of Michigan, 2024)
 * 33rd Midwest Relativity Conference, <em>Black hole formation with null dust</em> (University of Chicago, 2023)
 * University of Maine Mathematics Colloquium, <em>Trapped surface formation in general relativity</em> (University of Maine, 2023)
