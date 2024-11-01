@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a sixth-year Ph.D. student at the University of Michigan studying mathematical general relativity. My advisor is Lydia Bieri. 
+I am a sixth-year Ph.D. student at the University of Michigan studying mathematical general relativity. My advisor is Lydia Bieri. I'm currently on the job market. 
 
 ### Research interests: 
 

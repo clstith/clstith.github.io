@@ -29,13 +29,14 @@ Conferences & Workshops
 * 33rd Midwest Relativity Conference (University of Chicago, Fall 2023)
 * 32nd Midwest Relativity Conference (Oakland University, Fall 2022)
 * MSRI Summer School on Geometric Flows ([FORTH-IACM](https://www.iacm.forth.gr/), Crete, Summer 2022)
-* CMSA General Relativity Program Visitor (Harvard University, Spring 2022)
+* Harvard CMSA General Relativity Program Visitor (Harvard University, Spring 2022)
   * For more information, visit the program's [website](https://cmsa.fas.harvard.edu/gr-program/)
 * Boston City Limits 2018: Summer School on Mathematical General Relativity and the Geometric Analysis of Waves of Fluids (MIT, Summer 2018)
   * For more information, visit the program's [website](https://math.mit.edu/sites/city-limits/2018/index.html)
   
 Talks
 ======
+* 34th Midwest Relativity Conference, <em>Algebraic constraints for the linearized Bianchi equations </em> (University of Michigan, 2024)
 * Student Analysis Seminar, <em>Hyperbolic equations and double null foliations</em> (University of Michigan, 2024)
 * AMS Special Session on Dynamics of Solutions to Wave Equations,  <em>Hyperbolic equations in a double null gauge</em> (University of California, Riverside, 2024)
 * Student Analysis Seminar, <em>General Relativity and the Einstein Equations</em> (University of Michigan, 2024)
@@ -60,8 +61,9 @@ Teaching
 
 Service 
 ======
+* Assisted with 34th Midwest Relativity Conference at the University of Michigan (2024)
 * Invited panelist at [MORE 2023](https://intranet.math.vt.edu/MORE/MORE2023/) (Mathematics - Opportunities in Research and Education 2023)
-* I was the co-chair for the Midwest Research Experience for Graduates ([MREG 2023](https://sites.google.com/umich.edu/mreg-2023)) (previously known as the Michigan Research Experience for Graduates), for which we secured funding from [NSF](https://www.nsf.gov/) and [MCAIM](https://sites.lsa.umich.edu/mcaim/)
+* I was the co-chair for the Midwest Research Experience for Graduates ([MREG 2023](https://sites.google.com/umich.edu/mreg-2023)) (previously known as the Michigan Research Experience for Graduates), for which we secured funding from [NSF](https://www.nsf.gov/) and [MCAIM](https://sites.lsa.umich.edu/mcaim/); I'm now in an advisory position as we seek to transition MREG to a more sustainable funding model
 * I was on the organizing committee for the Michigan Research Experience for Graduates ([MREG 2022](https://sites.google.com/umich.edu/mreg-2022)) in Summer, 2022
 * Co-organizer, Student Analysis Seminar (2021 - 2023) (See the [list](http://www.math.lsa.umich.edu/seminars_events/index.php) of UM seminars)
 * I have lead two [Math Circle](https://sites.lsa.umich.edu/mathcircle/) sessions at the University of Michigan (one on spherical geometry, one on Conway's Game of Life)
