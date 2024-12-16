@@ -23,7 +23,7 @@ Education
 
 Papers & Preprints 
 ======
-* *Linear hyperbolic equations in a double null foliation*, 2024. Preprint on [arXiv](https://arxiv.org/abs/2412.01915)
+* *Linear hyperbolic equations in a double null foliation*, 2024. Preprint on [arXiv](https://arxiv.org/abs/2412.01915).
 
 Conferences & Workshops
 ======
