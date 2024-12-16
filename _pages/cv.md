@@ -21,6 +21,10 @@ Education
 * M.S. in Mathematics, University of Michigan, April 2021
 * B.S. in Mathematics (with Honors), University of Chicago, June 2019
 
+Papers & Preprints 
+======
+* *Linear hyperbolic equations in a double null foliation*, 2024. Preprint on [arXiv](https://arxiv.org/abs/2412.01915)
+
 Conferences & Workshops
 ======
 * 34th Midwest Relativity Conference (University of Michigan, Fall 2024)
