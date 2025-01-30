@@ -75,10 +75,11 @@ Service
 
 Selected Honors
 ======
+* Wirt & Mary Cornwell Prize (University of Michigan, 2025)
+* Rackham Merit Fellowship (University of Michigan, 2019 -- 2024)
 * Mort Brown Excellence in Teaching Award (University of Michigan, 2023)
 * Joel Smoller Graduate Fellowship (University of Michigan, 2023)
 * Gabrielle & Sophie Rainich Fellowship (University of Michigan, 2020)
-* Rackham Merit Fellowship (University of Michigan, 2019 - Present)
 * Phi Beta Kappa (2019 - Present)
 
 Miscellaneous
