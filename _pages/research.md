@@ -1,4 +1,5 @@
 ---
+layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
@@ -6,7 +7,7 @@ redirect_from:
   - /research.html
 ---
 
-### Papers & Preprints
+Papers & Preprints
 ======
 *Black hole formation with null dust* (with Lydia Bieri, Neel Patel, and Pengyu Le), in preparation. 
 
