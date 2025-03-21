@@ -13,4 +13,4 @@ redirect_from:
 
 ### Slides
 
-* *Hyperbolic systems of equations and double null foliations of spacetime* (Talk given at AMS Fall 2024 Western Sectional meeting; [slides here](https://https://clstith.github.io/files/talk_slides_AMS_sectional_2024.pdf))
+* *Hyperbolic systems of equations and double null foliations of spacetime* (Talk given at AMS Fall 2024 Western Sectional meeting; [slides here](https://clstith.github.io/files/talk_slides_AMS_sectional_2024.pdf))
