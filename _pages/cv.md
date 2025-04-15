@@ -17,7 +17,7 @@ Research interests
 
 Education
 ======
-* Ph.D in Mathematics, University of Michigan, June 2025 (Expected)
+* Ph.D in Mathematics, University of Michigan, May 2025 
 * M.S. in Mathematics, University of Michigan, April 2021
 * B.S. in Mathematics (with Honors), University of Chicago, June 2019
 
