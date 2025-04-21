@@ -26,21 +26,9 @@ Papers & Preprints
 * *Black hole formation with null dust* (with Lydia Bieri, Neel Patel, and Pengyu Le), in preparation. 
 * *Linear hyperbolic equations in a double null foliation*, 2024. Preprint on [arXiv](https://arxiv.org/abs/2412.01915).
 
-Conferences & Workshops
-======
-* 34th Midwest Relativity Conference (University of Michigan, Fall 2024)
-* AMS Fall Western Sectional (University of California, Riverside, Fall 2024)
-* Recent Progress on Geometric Analysis and Riemannian Geometry (SLMath, Fall 2024)
-* 33rd Midwest Relativity Conference (University of Chicago, Fall 2023)
-* 32nd Midwest Relativity Conference (Oakland University, Fall 2022)
-* MSRI Summer School on Geometric Flows ([FORTH-IACM](https://www.iacm.forth.gr/), Crete, Summer 2022)
-* Harvard CMSA General Relativity Program Visitor (Harvard University, Spring 2022)
-  * For more information, visit the program's [website](https://cmsa.fas.harvard.edu/gr-program/)
-* Boston City Limits 2018: Summer School on Mathematical General Relativity and the Geometric Analysis of Waves of Fluids (MIT, Summer 2018)
-  * For more information, visit the program's [website](https://math.mit.edu/sites/city-limits/2018/index.html)
-  
 Talks
 ======
+* Harvard CMSA General Relativity Seminar, <em>Hyperbolic equations in a double null gauge</em> (Harvard Unviersity, 2025)
 * 34th Midwest Relativity Conference, <em>Algebraic constraints for the linearized Bianchi equations </em> (University of Michigan, 2024)
 * Student Analysis Seminar, <em>Hyperbolic equations and double null foliations</em> (University of Michigan, 2024)
 * AMS Special Session on Dynamics of Solutions to Wave Equations,  <em>Hyperbolic equations in a double null gauge</em> (University of California, Riverside, 2024)
@@ -55,6 +43,19 @@ Talks
 * MCAIM Student Seminar, <em>The Cauchy problem in general relativity</em> (University of Michigan, 2020)
 * Student Analysis Seminar, <em>Optimal transport theory</em> (University of Michigan, 2020)
 * Student Analysis Seminar, <em>The Cauchy problem in general relativity</em> (University of Michigan, 2020)
+
+Conferences & Workshops
+======
+* 34th Midwest Relativity Conference (University of Michigan, Fall 2024)
+* AMS Fall Western Sectional (University of California, Riverside, Fall 2024)
+* Recent Progress on Geometric Analysis and Riemannian Geometry (SLMath, Fall 2024)
+* 33rd Midwest Relativity Conference (University of Chicago, Fall 2023)
+* 32nd Midwest Relativity Conference (Oakland University, Fall 2022)
+* MSRI Summer School on Geometric Flows ([FORTH-IACM](https://www.iacm.forth.gr/), Crete, Summer 2022)
+* Harvard CMSA General Relativity Program Visitor (Harvard University, Spring 2022)
+  * For more information, visit the program's [website](https://cmsa.fas.harvard.edu/gr-program/)
+* Boston City Limits 2018: Summer School on Mathematical General Relativity and the Geometric Analysis of Waves of Fluids (MIT, Summer 2018)
+  * For more information, visit the program's [website](https://math.mit.edu/sites/city-limits/2018/index.html)
 
 Teaching
 ======
