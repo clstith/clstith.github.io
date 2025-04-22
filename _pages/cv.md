@@ -28,7 +28,7 @@ Papers & Preprints
 
 Talks
 ======
-* Harvard CMSA General Relativity Seminar, <em>Hyperbolic equations in a double null gauge</em> (Harvard Unviersity, 2025)
+* Harvard CMSA General Relativity Seminar, <em>Hyperbolic equations in a double null gauge</em> (Harvard University, 2025)
 * 34th Midwest Relativity Conference, <em>Algebraic constraints for the linearized Bianchi equations </em> (University of Michigan, 2024)
 * Student Analysis Seminar, <em>Hyperbolic equations and double null foliations</em> (University of Michigan, 2024)
 * AMS Special Session on Dynamics of Solutions to Wave Equations,  <em>Hyperbolic equations in a double null gauge</em> (University of California, Riverside, 2024)
