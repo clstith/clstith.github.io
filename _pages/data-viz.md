@@ -7,8 +7,8 @@ author_profile: true
 
 ### Michigan Climate & Weather Data Viz \[[LINK](https://clstith.github.io/michigan-climate)\]
 
-This is a project I did on visualizing and detecting climate change using monthly weather data from the National Oceanic and Atmospheric Administration (NOAA), from 1900 until today. I scraped and cleaned data from the [NOAA API](https://www.ncdc.noaa.gov/cdo-web/webservices/v2) using Python, then used various GIS Python packages (cartopy, geopy) as well as Tableau to get some nice images. 
+This is a project I did on visualizing and detecting climate change using monthly weather data from the National Oceanic and Atmospheric Administration ([NOAA](https://www.noaa.gov/)), from 1900 until today. I scraped and cleaned data from the [NOAA API](https://www.ncdc.noaa.gov/cdo-web/webservices/v2) using Python, then used various GIS Python packages (cartopy, geopy) as well as Tableau to get some nice visualizations. 
 
 There are more than 1,000 NOAA stations in Michigan; to get county-level readings, I averaged data taken at all stations in a given county. Stations report their FIPS code (a three-digit code that uniquely identifies the county). 
 
-Right now, the data displayed is rainfall data by county; in the future, I plan to add other types of measurements.
+Right now, the visualization displays county-level rainfall data. In the future, I plan to add other types of data.
