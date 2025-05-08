@@ -18,4 +18,4 @@ I obtained my Ph.D. in Mathematics at the University of Michigan in 2025 studyin
 
 I was the co-chair of the Midwest Research Experience for Graduates ([MREG](https://sites.google.com/umich.edu/mreg-2023/home)) 2023, a two-week summer program hosted at the University of Michigan for early-stage graduate students in pure & applied mathematics. We're currently in the process of designing a more sustainable funding model for future MREGs! 
 
-Outside of mathematics, I work on data analysis and data visualization problems for local Michigan organizations through [CTAC](https://ginsberg.umich.edu/ctac).
+Outside of mathematics, I work on data science, data analysis, and data visualization problems for local Michigan organizations through the [Ginsberg Center](https://ginsberg.umich.edu/) and [CTAC](https://ginsberg.umich.edu/ctac).
