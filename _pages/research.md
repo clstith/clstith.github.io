@@ -9,6 +9,7 @@ redirect_from:
 ### Papers & Preprints
 
 * *Black hole formation with null dust* (with Lydia Bieri, Neel Patel, and Pengyu Le), in preparation (2025). 
+* *Trapped surface formation in general relativity and double null foliations* (Ph.D. Thesis), 2025. Available on [Deep Blue](https://dx.doi.org/10.7302/25740).
 * *Linear hyperbolic equations in a double null foliation*, 2024. Preprint on [arXiv](https://arxiv.org/abs/2412.01915).
 
 ### Slides
