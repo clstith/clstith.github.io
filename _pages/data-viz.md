@@ -7,6 +7,10 @@ redirect_from:
   - /data-viz/
 ---
 
+
+### $\mu$'n I: Neutrino Direction Detection 
+
+
 ### Michigan Climate & Weather Data Viz \[[LINK](https://clstith.github.io/michigan-climate)\]
 
 This is a personal project I did on visualizing and detecting climate change using monthly weather data from the National Oceanic and Atmospheric Administration ([NOAA](https://www.noaa.gov/)), from 1900 until today. I scraped and cleaned data from the [NOAA API](https://www.ncdc.noaa.gov/cdo-web/webservices/v2) using Python, then used various GIS Python packages (cartopy, geopy) as well as Tableau to get some nice visualizations. 
