@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I earned my Ph.D. in Mathematics at the University of Michigan in 2025 studying mathematical general relativity. My advisor was Lydia Bieri. 
+I earned my Ph.D. in Mathematics at the University of Michigan in 2025 studying mathematical general relativity. My advisor was Lydia Bieri. I'm currently looking for Data Science roles. 
 
 ### Research interests: 
 
