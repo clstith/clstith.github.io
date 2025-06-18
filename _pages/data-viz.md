@@ -1,8 +1,10 @@
 ---
 layout: archive
-title: "Data Viz Projects"
-permalink: /data-viz/
+title: "Data Science Projects"
+permalink: /data-science/
 author_profile: true
+redirect_from: 
+  - /data-viz/
 ---
 
 ### Michigan Climate & Weather Data Viz \[[LINK](https://clstith.github.io/michigan-climate)\]
