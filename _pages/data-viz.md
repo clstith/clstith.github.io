@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-## BERT-based LLMs for Detection of Personally Identifiable Information <span style="font-size:.8em;">\[[GitHub](https://github.com/kdv97/pii)\] \[[Slides](https://www.erdosinstitute.org/certificates/spring-2024/deep-learning-boot-camp/christopher-stith/)\]</span>
+## BERT-based LLMs for PII Detection <span style="font-size:.8em;">\[[GitHub](https://github.com/kdv97/pii)\] \[[Slides](https://www.erdosinstitute.org/certificates/spring-2024/deep-learning-boot-camp/christopher-stith/)\]</span>
 
 This is a team project done for the Erdos Institute's Deep Learning Bootcamp. The goal is to create a reliable automated method of detecting personally identifiable information (PII) in educational materials, such as student essay submissions. The data used was provided by the Learning Agency Lab through a [Kaggle competition](https://www.kaggle.com/competitions/pii-detection-removal-from-educational-data/overview).
 
