@@ -8,6 +8,15 @@ redirect_from:
 ---
 
 
+## Data Consulting for Michigan Non-Profits
+
+I've consulted for MI non-profits on data analysis and data visualization projects through the [Community Technical Assistance Collaborative](https://ginsberg.umich.edu/ctac) at UM. Projects include:
+* Data visualization and geospatial data analysis for [Brilliant Detroit](https://brilliantcities.org/detroit/) and the [Girl Scouts of Southeastern Michigan](https://www.gssem.org/), allowing orgs to more effectively allocate resources
+* Interactive dashboard visualizations for [MI-CEMI](https://michigancollaborative.org/) to empower cross-functional collaboration 
+* Data analysis for [OLHSA](https://www.olhsa.org/en-us/) to assess community needs
+* Python & Bash visualization tutorials for CTAC
+
+
 ## BERT-based LLMs for PII Detection <span style="font-size:.8em;">\[[GitHub](https://github.com/kdv97/pii)\] \[[Slides](https://www.erdosinstitute.org/certificates/spring-2024/deep-learning-boot-camp/christopher-stith/)\]</span>
 
 This is a team project done for the Erdos Institute's Deep Learning Bootcamp. The goal is to create a reliable automated method of detecting personally identifiable information (PII) in educational materials, such as student essay submissions. The data used was provided by the Learning Agency Lab through a [Kaggle competition](https://www.kaggle.com/competitions/pii-detection-removal-from-educational-data/overview).
