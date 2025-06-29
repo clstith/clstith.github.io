@@ -44,3 +44,7 @@ This is a team project done for the Erdos Institute's Data Science Bootcamp. The
 Neutrinos are detected indirectly through [Cherenkov radiation](https://en.wikipedia.org/wiki/Cherenkov_radiation), an electromagnetic analog of a sonic boom produced by neutrinos traveling faster-than-light in ice. The detector's 5,160 optical sensors detect the photons emitted from Cherenkov radiation, and the job is to reconstruct the path of the neutrino. 
 
 The data provided by Kaggle consisted of 660 parquet files, each consisting of around 200,000 individual neutrino events. 
+
+<p align="center">
+  <img src="https://github.com/clstith/clstith.github.io/blob/0fa154617022b425c0662f5178846f0c180c059f/images/neutrino_event_1.png" />
+</p>
