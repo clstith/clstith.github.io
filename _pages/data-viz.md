@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 
-## Data Consulting for Michigan Non-Profits
+## Data Consulting
 
-I've consulted for MI non-profits on data analysis and data visualization projects through the [Community Technical Assistance Collaborative](https://ginsberg.umich.edu/ctac) (CTAC) at UM. Many of the GitHub repositories for these are private due to the sensitive nature of the data involved. Projects include:
+I've consulted for MI companies on data analysis and data visualization projects through the [Community Technical Assistance Collaborative](https://ginsberg.umich.edu/ctac) (CTAC) at UM. Many of the GitHub repositories for these are private due to the sensitive nature of the data involved. Projects include:
 * Data visualization and geospatial data analysis for [Brilliant Detroit](https://brilliantcities.org/detroit/) and the [Girl Scouts of Southeastern Michigan](https://www.gssem.org/), allowing orgs to more effectively allocate resources
 * Interactive dashboard visualizations for [MI-CEMI](https://michigancollaborative.org/) to empower cross-functional collaboration 
 * Data analysis for [OLHSA](https://www.olhsa.org/en-us/) to assess community needs
