@@ -17,7 +17,7 @@ I've consulted for MI companies on data analysis and data visualization projects
 * Python & Bash visualization tutorials for CTAC
 
 <p align="center">
-  <img src="/images/network_graph_1.png" style="max-height: 600px; max-width: 1000px;" />
+  <img src="/images/network_graph_1.png" style="max-height: 400px; max-width: 1000px;" />
 </p>
 
 
@@ -41,7 +41,7 @@ There are more than 1,000 NOAA stations in Michigan; to get county-level reading
 Right now, the visualization displays county-level rainfall data. In the future, I plan to add other types of data.
 
 <p align="center">
-  <img src="/images/mi_rainfall_map_1.png" style="max-height: 600px; max-width: 1000px;" />
+  <img src="/images/mi_rainfall_map_1.png" style="max-height: 500px; max-width: 1000px;" />
 </p>
 
 
