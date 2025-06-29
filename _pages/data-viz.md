@@ -12,9 +12,13 @@ redirect_from:
 
 I've consulted for MI companies on data analysis and data visualization projects through the [Community Technical Assistance Collaborative](https://ginsberg.umich.edu/ctac) (CTAC) at UM. Many of the GitHub repositories for these are private due to the sensitive nature of the data involved. Projects include:
 * Data visualization and geospatial data analysis for [Brilliant Detroit](https://brilliantcities.org/detroit/) and the [Girl Scouts of Southeastern Michigan](https://www.gssem.org/), allowing orgs to more effectively allocate resources
-* Interactive dashboard visualizations for [MI-CEMI](https://michigancollaborative.org/) to empower cross-functional collaboration 
+* Interactive dashboard visualizations for [MI-CEMI](https://michigancollaborative.org/) to empower cross-functional collaboration <span style="font-size:.8em;">\[[GitHub](https://github.com/clstith/network-graph)\] </span>
 * Data analysis for [OLHSA](https://www.olhsa.org/en-us/) to assess community needs
 * Python & Bash visualization tutorials for CTAC
+
+<p align="center">
+  <img src="/images/network_graph_1.png" style="max-height: 600px; max-width: 1000px;" />
+</p>
 
 
 ## BERT-based LLMs for PII Detection <span style="font-size:.8em;">\[[GitHub](https://github.com/kdv97/pii)\] \[[Slides](https://www.erdosinstitute.org/certificates/spring-2024/deep-learning-boot-camp/christopher-stith/)\]</span>
