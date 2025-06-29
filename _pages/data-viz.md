@@ -46,5 +46,5 @@ Neutrinos are detected indirectly through [Cherenkov radiation](https://en.wikip
 The data provided by Kaggle consisted of 660 parquet files, each consisting of around 200,000 individual neutrino events. 
 
 <p align="center">
-  <img src="https://github.com/clstith/clstith.github.io/blob/0fa154617022b425c0662f5178846f0c180c059f/images/neutrino_event_1.png" />
+  <img src="images/neutrino_event_1.png" />
 </p>
