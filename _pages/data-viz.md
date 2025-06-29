@@ -36,6 +36,10 @@ There are more than 1,000 NOAA stations in Michigan; to get county-level reading
 
 Right now, the visualization displays county-level rainfall data. In the future, I plan to add other types of data.
 
+<p align="center">
+  <img src="/images/mi_rainfall_map_1.png" style="max-height: 600px; max-width: 1000px;" />
+</p>
+
 
 ## Neutrino Direction Detection <span style="font-size:.8em;">\[[GitHub](https://github.com/kdv97/ice-cube)\] \[[Slides](https://www.erdosinstitute.org/certificates/fall-2023/data-science-boot-camp/christopher-stith/)\]</span>
 
