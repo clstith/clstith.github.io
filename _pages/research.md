@@ -14,5 +14,5 @@ redirect_from:
 
 ### Slides/Talks
 
-* *Hyperbolic equations in a double null gauge* (Talk given in spring 2025 at Harvard CMSA General Relativity seminar; [recording here](https://www.youtube.com/watch?v=qcmcmv4o3bg))
+* *Hyperbolic equations in a double null gauge* (Talk given in spring 2025 at Harvard CMSA GR Seminar; [recording here](https://www.youtube.com/watch?v=qcmcmv4o3bg))
 * *Hyperbolic systems of equations and double null foliations of spacetime* (Talk given at AMS Fall 2024 Western Sectional meeting; [slides here](https://clstith.github.io/files/talk_slides_AMS_sectional_2024.pdf))
