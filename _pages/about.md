@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I earned my Ph.D. in Mathematics at the University of Michigan in 2025 studying black hole formation and mathematical physics. My advisor was Lydia Bieri. I'm currently a Research ML Scientist at [Layer 6](https://layer6.ai/).
+I earned my Ph.D. in Mathematics at the University of Michigan in 2025 studying black hole formation and mathematical physics. My advisor was Lydia Bieri. I'm currently a Research Machine Learning Scientist at [Layer 6](https://layer6.ai/).
 
 ### Research interests: 
 
