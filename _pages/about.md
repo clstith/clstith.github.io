@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I earned my Ph.D. in Mathematics at the University of Michigan in 2025, advised by [Lydia Bieri](https://websites.umich.edu/~lbieri/). I studied black hole formation and mathematical physics. Currently, I am a Research Machine Learning Scientist II at [Layer 6](https://layer6.ai/).
+I am a Research Machine Learning Scientist II at [Layer 6](https://layer6.ai/). I earned my Ph.D. in Mathematics at the University of Michigan in 2025, where I studied mathematical physics and black hole formation. My advisor was [Lydia Bieri](https://websites.umich.edu/~lbieri/).
 
 ### Research interests: 
 
-- Causal inference
+- Causal inference & machine learning
 - Tabular foundation models
 - Partial differential equations (specifically hyperbolic systems)
 - Mathematical general relativity (specifically singularity/trapped surface formation)
