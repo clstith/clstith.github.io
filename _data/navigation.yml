@@ -1,11 +1,11 @@
 # main links links
 main:
 
-  - title: "Data Science"
-    url: /data-science/
-
   - title: "Research"
     url: /research/
+
+  - title: "Data Science"
+    url: /data-science/
 
   - title: "CV"
     url: /cv/
