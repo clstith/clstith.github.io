@@ -10,6 +10,10 @@ redirect_from:
 
 ### Papers & Preprints
 
+* *Causal Foundation Models*  
+    (Christopher Stith\*, Hossein Rahmani\*, [Jesse C. Cresswell](https://jescresswell.github.io/)).  
+    Preprint on [arXiv](https://arxiv.org/abs/2609.03003).
+
 * *Causal Foundation Models with Continuous Treatments*  
     (Christopher Stith\*, Medha Barath\*, [Vahid Balazadeh](https://vahidbalazadeh.me/), [Jesse C. Cresswell](https://jescresswell.github.io/), and [Rahul G. Krishnan](https://www.cs.toronto.edu/~rahulgk/)).  
     In 2nd ICML Workshop on Foundation Models for Structured Data, 2026. Preprint on [arXiv](https://arxiv.org/abs/2605.15133).
